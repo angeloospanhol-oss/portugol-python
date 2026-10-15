@@ -10,8 +10,12 @@ n2 = int(input("Digite o segundo número: "))
 soma = n1 + n2
 # Realizando as operações de subtração
 subtracao = n1 - n2
+# Realizando as operações de multiplicação
+multiplicacao = n1 * n2
 
 # Exibindo o resultado da soma
 print("A soma dos números é:", soma)
 # Exibindo o resultado da subtração
 print("A subtração dos números é:", subtracao)
+# Exibindo o resultado da multiplicação
+print("A multiplicação dos números é:", multiplicacao)
