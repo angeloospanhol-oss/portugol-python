@@ -6,5 +6,5 @@ for numero in dias:
     print(f"Dia {dias}")
     breakdia = int(input("Digite um número: "))
 
-if dia == 1:
+if dias == 1:
     print("Domingo")
