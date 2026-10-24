@@ -1,4 +1,4 @@
-# Exercício 29 — O maior de trê
+# Exercício 29 — O maior de três
 # Nome: Angelo Otavio Spanhol
 # Objetivo: Identificar qual número é o maior
 
